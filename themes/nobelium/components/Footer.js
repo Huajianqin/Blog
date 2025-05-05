@@ -21,6 +21,7 @@ export const Footer = (props) => {
        <div className="flex align-baseline justify-between flex-wrap">
          <p>
            © {siteConfig('AUTHOR')} {copyrightDate}
+         </p>
        </div>
      </div>
    </footer>
